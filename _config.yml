@@ -1,1 +1,9 @@
-theme: jekyll-theme-minimal
+title: Extension Request - Level 9000
+author: Durand Sinclair
+email: durandsinclair@yahoo.com.au
+description: >
+  In May 2018, I needed an extension on a university assignment.
+  There's only one way to ask for one: the data science way.
+  
+show-excerpts: true  
+theme: minima
