@@ -35,7 +35,7 @@ Liu, G., Mattick, J.S., & Taft, R.J., 2013, “A meta-analysis of the genomic an
 CellCycle, 2013 Jul 1 v.12(13), pp2061-2072, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3737309/#SUP2 , viewed 10/05/2018
 
 Liu, G., Mattick, J.S., & Taft, R.J., 2013, “biological complexity”, cc-12-2061-s04.xlsx, 
-https://www.ncbi.nlm.nih.gov/…/PMC37…/bin/cc-12-2061-s04.xls, viewed 10/05/2018
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3737309/bin/cc-12-2061-s02.xls, viewed 10/05/2018
 
 PS: If we’re going to move to the Faculty of Transdisciplinary Innovation, we need to prepare with some Transdisciplinary
 Excuses.
